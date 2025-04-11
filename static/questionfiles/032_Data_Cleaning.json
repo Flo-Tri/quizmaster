@@ -3,7 +3,7 @@
     "questions": [
       {
         "question": "Was ist der wichtigste Schritt in der Data Science?",
-        "answer": "Der wichtigste Schritt in der Data Science ist die Datenvorverarbeitung, da die Qualität der Daten die Leistung der Modelle maßgeblich beeinflusst."
+        "answer": "Der wichtigste Schritt in der Data Science ist die Datenvorverarbeitung, da die Qualität der Daten die Leistung der Modelle maßgeblich beeinflusst. "
       },
       {
         "question": "Nenne drei Untergebiete der Datenverarbeitung?",
